@@ -1,7 +1,7 @@
 # -temel_kavramlar.md
-araştırma
 
-     #Relational databases nedir?
+
+   #Relational databases nedir?
 İlişkisel veritabanı yönetim sistemi (RDBMS)
 kuruluşların büyük ve karmaşık ilişkisel veritabanlarını düzenli,erişilebilir ve güvenli tutmalarına yardımcı olan bir yazılımdır.
 İlişkisel veritabanı şemalarını tanımlama, ilişkileri uygulama ve SQL sorguları yürütme araçları sağlar.
